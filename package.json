@@ -1,0 +1,21 @@
+{
+  "name": "Covid-19",
+  "version": "1.0.0",
+  "description": "Covid-19 Code Logo Botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^0.5.0",
+    "discord-api-types": "^0.33.4",
+    "discord.js": "^13.8.0"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "github.com/RamoIsReaLoL"
+  },
+  "license": "MIT"
+}
